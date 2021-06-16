@@ -2,7 +2,7 @@
 *By Emma Maddock, Carleton University, 2020*
 
 ## Description
-A Java-based login system for a fictional organization called SecVault, Inc. that utilizes Role-Based Access Control and encryption to enforce security.
+A Java-based login system for a fictional organization called SecVault, Inc. that utilizes Role-Based Access Control and SHA3-256 encryption to enforce security.
 
 
 ## How to Launch in Eclipse (v4.17 or earlier)
