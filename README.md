@@ -63,4 +63,4 @@ with the hash and other information into a password file named pswd.txt
 4. The user is in the login phase. They are asked to first enter a username. The system checks to see if the username exists in the password file pswd.txt. Once a match is found, the user is then asked to enter the password associated with that username. The user’s input password, along with their respective password file record’s salt, is hashed again with the SHA3-256 algorithm. The user’s hashed input and the record’s hash value are then compared for a match. If there is a match, the user is then granted access to their action menu.
 5. The user can see their action menu. Their action menu contains the permissions they have within the system based off their roleID from their record in the password file.
 
-To read the complete details on the system, its design, and how it works, you can read the "Report.pdf" file located in the repo.
+*To read the complete details on the system, its design, and how it works, you can read the "Report.pdf" file located in the repo.*
